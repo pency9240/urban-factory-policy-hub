@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -34,7 +33,7 @@ const Contact = () => {
                   <Phone className="text-emerald-600" size={32} />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">客服热线</h3>
-                <p className="text-gray-600">400-123-4567</p>
+                <p className="text-gray-600">86-18666541235</p>
                 <p className="text-sm text-gray-500">7×24小时服务</p>
               </div>
               
@@ -43,7 +42,7 @@ const Contact = () => {
                   <Mail className="text-emerald-600" size={32} />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">邮箱地址</h3>
-                <p className="text-gray-600">info@cityworks.com.cn</p>
+                <p className="text-gray-600">panyansen@ilovetata.com</p>
                 <p className="text-sm text-gray-500">24小时内回复</p>
               </div>
               
@@ -52,7 +51,7 @@ const Contact = () => {
                   <MapPin className="text-emerald-600" size={32} />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">公司地址</h3>
-                <p className="text-gray-600">北京市朝阳区xxx大厦</p>
+                <p className="text-gray-600">广东省佛山市南海区牛梯路19号</p>
                 <p className="text-sm text-gray-500">欢迎预约参观</p>
               </div>
               

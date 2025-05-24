@@ -27,15 +27,16 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">联系信息</h4>
             <ul className="space-y-2 text-gray-300">
-              <li>电话：400-123-4567</li>
-              <li>邮箱：info@cityworks.com.cn</li>
-              <li>地址：北京市朝阳区xxx大厦</li>
+              <li>电话：86-18666541235</li>
+              <li>邮箱：panyansen@ilovetata.com</li>
+              <li>地址：广东省佛山市南海区牛梯路19号</li>
+              <li>邮编：528231</li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 城市工场. 保留所有权利。</p>
+          <p>&copy; 2025 城市工场. 保留所有权利。</p>
         </div>
       </div>
     </footer>

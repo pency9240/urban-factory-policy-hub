@@ -14,7 +14,7 @@ const Privacy = () => {
           
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-600 mb-6">
-              <strong>最后更新日期：</strong>2024年5月24日
+              <strong>最后更新日期：</strong>2025年1月24日
             </p>
             
             <div className="space-y-8">
@@ -152,10 +152,10 @@ const Privacy = () => {
                 <p className="text-gray-700 mb-4">如果您对本隐私政策有任何问题或需要行使您的权利，请通过以下方式联系我们：</p>
                 <div className="bg-gray-50 p-6 rounded-lg">
                   <ul className="space-y-2 text-gray-700">
-                    <li><strong>邮箱：</strong>privacy@cityworks.com.cn</li>
-                    <li><strong>电话：</strong>400-123-4567</li>
-                    <li><strong>地址：</strong>北京市朝阳区xxx大厦</li>
-                    <li><strong>邮编：</strong>100000</li>
+                    <li><strong>邮箱：</strong>panyansen@ilovetata.com</li>
+                    <li><strong>电话：</strong>86-18666541235</li>
+                    <li><strong>地址：</strong>广东省佛山市南海区牛梯路19号</li>
+                    <li><strong>邮编：</strong>528231</li>
                   </ul>
                 </div>
               </section>
