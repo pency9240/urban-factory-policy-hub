@@ -5,6 +5,8 @@ import Footer from '../components/Footer';
 import { ShoppingCart, Truck, Shield, Users } from 'lucide-react';
 
 const Index = () => {
+  console.log('Index page is rendering...');
+  
   return (
     <div className="min-h-screen">
       <Header />
