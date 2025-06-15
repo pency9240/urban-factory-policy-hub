@@ -36,7 +36,17 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-          <p>&copy; 2025 城市工场. 保留所有权利。</p>
+          <p className="mb-2">&copy; 2025 城市工场. 保留所有权利。</p>
+          <p>
+            <a 
+              href="https://beian.miit.gov.cn/#/Integrated/index" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-emerald-400 transition-colors"
+            >
+              粤ICP备2025380239号
+            </a>
+          </p>
         </div>
       </div>
     </footer>
